@@ -1,0 +1,88 @@
+{
+  "artist": {
+    "name": "Elena Martinez"
+  },
+  "nav": {
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Creando Historias Visuales",
+    "subtitle": "Dando vida a la imaginación a través de la ilustración y el diseño",
+    "cta": {
+      "portfolio": "Ver Portfolio",
+      "contact": "Contactar"
+    },
+    "image": {
+      "alt": "Elena Martinez - Retrato de la Artista"
+    }
+  },
+  "projects": {
+    "title": "Portfolio",
+    "categories": {
+      "all": "Todo",
+      "children": "Ilustración Infantil",
+      "fantasy": "Ilustración Fantástica",
+      "character": "Diseño de Personajes",
+      "integra": "Proyecto Integra"
+    },
+    "children1": {
+      "title": "El Jardín Mágico",
+      "description": "Una ilustración fantástica para un libro infantil"
+    },
+    "children2": {
+      "title": "Hora de Aventura",
+      "description": "Serie de personajes para contenido educativo"
+    },
+    "fantasy1": {
+      "title": "Reino de Dragones",
+      "description": "Pintura digital explorando paisajes míticos"
+    },
+    "fantasy2": {
+      "title": "Misterios Antiguos",
+      "description": "Arte conceptual para entornos de juegos fantásticos"
+    },
+    "character1": {
+      "title": "Serie de Héroes",
+      "description": "Diseño de personajes para proyecto de animación"
+    },
+    "character2": {
+      "title": "Colección de Criaturas",
+      "description": "Diseños originales de personajes para varios proyectos"
+    },
+    "integra1": {
+      "title": "Proyecto Integra - Fase 1",
+      "description": "Soluciones innovadoras de diseño para sistemas integrados"
+    },
+    "integra2": {
+      "title": "Proyecto Integra - Fase 2",
+      "description": "Conceptos avanzados para integración de sistemas"
+    }
+  },
+  "contact": {
+    "title": "Trabajemos Juntos",
+    "form": {
+      "name": {
+        "label": "Nombre"
+      },
+      "email": {
+        "label": "Correo electrónico"
+      },
+      "message": {
+        "label": "Mensaje"
+      },
+      "submit": "Enviar Mensaje",
+      "submitting": "Enviando..."
+    }
+  },
+  "theme": {
+    "toggle": "Cambiar tema"
+  },
+  "menu": {
+    "toggle": "Abrir menú"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados"
+  }
+}

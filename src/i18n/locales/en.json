@@ -1,0 +1,88 @@
+{
+  "artist": {
+    "name": "Elena Martinez"
+  },
+  "nav": {
+    "projects": "Projects",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Creating Visual Stories",
+    "subtitle": "Bringing imagination to life through illustration and design",
+    "cta": {
+      "portfolio": "View Portfolio",
+      "contact": "Get in Touch"
+    },
+    "image": {
+      "alt": "Elena Martinez - Artist Portrait"
+    }
+  },
+  "projects": {
+    "title": "Portfolio",
+    "categories": {
+      "all": "All Work",
+      "children": "Children's Illustration",
+      "fantasy": "Fantasy Illustration",
+      "character": "Character Design",
+      "integra": "Project Integra"
+    },
+    "children1": {
+      "title": "The Magic Garden",
+      "description": "A whimsical illustration for a children's book"
+    },
+    "children2": {
+      "title": "Adventure Time",
+      "description": "Series of playful characters for educational content"
+    },
+    "fantasy1": {
+      "title": "Dragon's Realm",
+      "description": "Digital painting exploring mythical landscapes"
+    },
+    "fantasy2": {
+      "title": "Ancient Mysteries",
+      "description": "Concept art for fantasy game environments"
+    },
+    "character1": {
+      "title": "Hero Series",
+      "description": "Character design for animation project"
+    },
+    "character2": {
+      "title": "Creature Collection",
+      "description": "Original character designs for various projects"
+    },
+    "integra1": {
+      "title": "Project Integra - Phase 1",
+      "description": "Innovative design solutions for integrated systems"
+    },
+    "integra2": {
+      "title": "Project Integra - Phase 2",
+      "description": "Advanced concepts for system integration"
+    }
+  },
+  "contact": {
+    "title": "Let's Work Together",
+    "form": {
+      "name": {
+        "label": "Name"
+      },
+      "email": {
+        "label": "Email"
+      },
+      "message": {
+        "label": "Message"
+      },
+      "submit": "Send Message",
+      "submitting": "Sending..."
+    }
+  },
+  "theme": {
+    "toggle": "Toggle theme"
+  },
+  "menu": {
+    "toggle": "Toggle menu"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}
