@@ -1,6 +1,6 @@
 {
   "artist": {
-    "name": "Elena Martinez"
+    "name": "Santiago"
   },
   "nav": {
     "projects": "Projects",
@@ -9,13 +9,13 @@
   },
   "hero": {
     "title": "Creating Visual Stories",
-    "subtitle": "Bringing imagination to life through illustration and design",
+    "subtitle": "Graphic designer in the eighth semester with six months of work experience in the learning process, skilled in areas of digital illustration and analog illustration using moderate realism techniques with fine-tip ink pens and digital illustrations in programs like Infinite Painter, as well as designing graphic layouts in Adobe Illustrator.",
     "cta": {
       "portfolio": "View Portfolio",
       "contact": "Get in Touch"
     },
     "image": {
-      "alt": "Elena Martinez - Artist Portrait"
+      "alt": "Santiago - Artist Portrait"
     }
   },
   "projects": {

@@ -1,6 +1,6 @@
 {
   "artist": {
-    "name": "Elena Martinez"
+    "name": "Santiago"
   },
   "nav": {
     "projects": "Proyectos",
@@ -9,13 +9,13 @@
   },
   "hero": {
     "title": "Creando Historias Visuales",
-    "subtitle": "Dando vida a la imaginación a través de la ilustración y el diseño",
+    "subtitle": "Diseñador gráfico de octavo semestre y experiencia laboral de 6 meses en proceso de aprendizaje, destacado en áreas de ilustracón digital e ilustración análoga con técnicas de realismos moderado en micropunta de tinta y en programas como infiniti painter para ilustraciones digitales, así como diagramador de piezas gráficas en Adobe Illustrator.",
     "cta": {
       "portfolio": "Ver Portfolio",
       "contact": "Contactar"
     },
     "image": {
-      "alt": "Elena Martinez - Retrato de la Artista"
+      "alt": "Santiago - Retrato de la Artista"
     }
   },
   "projects": {

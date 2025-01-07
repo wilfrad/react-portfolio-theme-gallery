@@ -1,3 +1,5 @@
+import { PhotoGallery, type Photo } from '../components/PhotoGallery/PhotoGallery';
+
 export const projectsData = [
   {
     id: 'children1',

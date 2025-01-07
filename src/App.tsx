@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import { PhotoGallery, type Photo } from './components/PhotoGallery/PhotoGallery';
 import { useTheme } from './hooks/useTheme';
 import './i18n/config';
 
@@ -12,6 +13,41 @@ function App() {
   const { t } = useTranslation();
   const { theme, toggleTheme } = useTheme();
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
+  const photos: Photo[] = [
+    {
+      id: '1',
+      imageUrl: 'https://images.unsplash.com/photo-1682687220742-aba13b6e50ba',
+      title: 'Mountain Landscape',
+      content: (
+        <div>
+          <p>A beautiful mountain landscape captured during golden hour.</p>
+          <p>Location: Swiss Alps</p>
+        </div>
+      ),
+    },
+    {
+      id: '2',
+      imageUrl: 'https://images.unsplash.com/photo-1682687221038-404670f05144',
+      title: 'Ocean Sunset',
+      content: (
+        <div>
+          <p>Breathtaking sunset view over the Pacific Ocean.</p>
+          <p>Location: California Coast</p>
+        </div>
+      ),
+    },
+    {
+      id: '3',
+      imageUrl: 'https://images.unsplash.com/photo-1682687220063-4742bd7fd538',
+      title: 'Forest Path',
+      content: (
+        <div>
+          <p>A serene path through an ancient forest.</p>
+          <p>Location: Redwood National Park</p>
+        </div>
+      ),
+    },
+  ];
 
   return (
     <div className="min-h-screen">
@@ -44,6 +80,7 @@ function App() {
       <main>
         <Hero />
         <Projects />
+        <PhotoGallery photos={photos} />
         <Contact />
       </main>
 
